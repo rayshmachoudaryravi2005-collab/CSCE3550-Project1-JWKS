@@ -1,0 +1,6 @@
+Flask
+PyJWT
+cryptography
+pytest
+pytest-cov
+ruff
